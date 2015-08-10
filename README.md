@@ -6,7 +6,7 @@ Geospatial data and cluster analysis tutorial
 ```bash
 # Clone the repo
 > git clone https://github.com/luciasantamaria/geodata.git
-> cd tutorial/
+> cd geodata/tutorial/
 
 # Create a virtual  environment, install virtualenv if needed
 > pip install virtualenv
