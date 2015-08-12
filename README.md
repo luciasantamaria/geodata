@@ -21,6 +21,15 @@ Geospatial data and cluster analysis tutorial
 
 ```
 
+For python2.7 usage, assuming that python is the 2.7 executable: 
+
+```bash
+> virtualenv -p python .env2.7
+> source .env2.7/bin/activate
+> pip install -r requirements2.7.txt
+
+```
+
 ### Start Jupyter notebook
 
 ```bash
